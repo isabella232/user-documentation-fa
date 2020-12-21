@@ -4,5 +4,6 @@
 * [شروع کار](shrwa-kar/README.md)
   * [نصب پرستاشاپ](shrwa-kar/nsb-prstashap.md)
   * [هر آنچه برای شروع نیاز دارید](shrwa-kar/hr-aanchh-bray-shrwa-nyaz-daryd.md)
-* [راهنمای کاربر](rahnmay-karbr.md)
+* [راهنمای کاربر](rahnmay-karbr/README.md)
+  * [آموزش پرستاشاپ 1.7](rahnmay-karbr/aamwzsh-prstashap-1.7.md)
 
