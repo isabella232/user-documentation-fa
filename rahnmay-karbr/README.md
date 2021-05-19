@@ -1,14 +1,6 @@
 # راهنمای کاربر
 
-The user guide is not available in Farsi.
-
-If you would like to contribute to the translation of the user guide, visit the [contribution page](https://app.gitbook.com/@prestashop/s/howtocontribute/). 
-
-                           ![](../.gitbook/assets/puffin-2x-2-1-.png) 
-
-
-
-                               
+![](../.gitbook/assets/translation-many-pages-2-.png)
 
 ## راهنمای کاربر پرستاشاپ ۱.۷ <a id="id-&#x631;&#x627;&#x647;&#x646;&#x645;&#x627;&#x6CC;&#x6A9;&#x627;&#x631;&#x628;&#x631;-&#x631;&#x627;&#x647;&#x646;&#x645;&#x627;&#x6CC;&#x6A9;&#x627;&#x631;&#x628;&#x631;&#x67E;&#x631;&#x633;&#x62A;&#x627;&#x634;&#x627;&#x67E;&#x6F1;.&#x6F7;"></a>
 
