@@ -76,6 +76,7 @@
         * [مالیاتها](rahnmay-karbr/mghazh-khwd-ra-bhbwd-bkhshyd/mfahym-aamar-sayt/malyatha/malyatha.md)
         * [قوانین مالیاتی](rahnmay-karbr/mghazh-khwd-ra-bhbwd-bkhshyd/mfahym-aamar-sayt/malyatha/qwanyn-malyaty.md)
       * [ترجمه ها](rahnmay-karbr/mghazh-khwd-ra-bhbwd-bkhshyd/mfahym-aamar-sayt/trjmh-ha.md)
+  * [بررسی بخش کاربری](rahnmay-karbr/brrsy-bkhsh-karbry.md)
   * [مدیریت چند فروشگاهی](rahnmay-karbr/mdyryt-chnd-frwshgahy/README.md)
     * [رابط چند فروشگاهی](rahnmay-karbr/mdyryt-chnd-frwshgahy/rabt-chnd-frwshgahy.md)
   * [پیکربندی فروشگاه](rahnmay-karbr/pykrbndy-frwshgah/README.md)
