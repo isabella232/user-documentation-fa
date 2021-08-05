@@ -9,6 +9,7 @@
   * [.فروشگاه خود را شخصی سازی کنید](rahnmay-karbr/.frwshgah-khwd-ra-shkhsy-sazy-knyd.md)
   * [ورود به بخش مدیریت پرستاشاپ](rahnmay-karbr/wrwd-bh-bkhsh-mdyryt-prstashap.md)
   * [آشنایی با بخش مدیریت](rahnmay-karbr/aashnayy-ba-bkhsh-mdyryt.md)
+  * [اولین مراحل کار با پرستاشاپ 1.7](rahnmay-karbr/untitled.md)
   * [فروش با پرستاشاپ](rahnmay-karbr/frwsh-ba-prstashap.md)
   * [مغازه خود را بهبود بخشید](rahnmay-karbr/mghazh-khwd-ra-bhbwd-bkhshyd/README.md)
     * [مدیریت سفارشات](rahnmay-karbr/mghazh-khwd-ra-bhbwd-bkhshyd/mdyryt-sfarshat.md)
