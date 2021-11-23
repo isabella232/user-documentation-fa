@@ -14,5 +14,4 @@
 * تنظیمات تصاویر
 * Link Widget
 
-![](../../../.gitbook/assets/0%20%288%29.png)
-
+![](<../../../.gitbook/assets/0 (29).png>)

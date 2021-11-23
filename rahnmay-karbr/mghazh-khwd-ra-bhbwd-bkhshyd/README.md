@@ -16,5 +16,4 @@ description: Improving your shop
 * مدیریت پرداخت ها
 * بین المللی شدن
 
-![](../../.gitbook/assets/0%20%2820%29.png)
-
+![](<../../.gitbook/assets/0 (27).png>)

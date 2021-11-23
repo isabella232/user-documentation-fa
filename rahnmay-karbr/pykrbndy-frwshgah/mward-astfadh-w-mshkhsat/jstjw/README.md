@@ -10,6 +10,5 @@ description: Search
 
 این فصل شامل بخشهای زیر است:
 
-* [جستجو](برچسب%20ها)
-* [برچسبها](برچسب%20ها)
-
+* [جستجو](https://app.gitbook.com/s/-ME3cW3NJikhAO22QAUt/rahnmay-karbr/pykrbndy-frwshgah/mward-astfadh-w-mshkhsat/%D8%A8%D8%B1%DA%86%D8%B3%D8%A8%20%D9%87%D8%A7)
+* [برچسبها](https://app.gitbook.com/s/-ME3cW3NJikhAO22QAUt/rahnmay-karbr/pykrbndy-frwshgah/mward-astfadh-w-mshkhsat/%D8%A8%D8%B1%DA%86%D8%B3%D8%A8%20%D9%87%D8%A7)

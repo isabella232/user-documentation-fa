@@ -1,8 +1,8 @@
 # راهنمای کاربر
 
-![](../.gitbook/assets/translation-many-pages-2-.png)
+![](<../.gitbook/assets/translation (many pages) (2).png>)
 
-## راهنمای کاربر پرستاشاپ ۱.۷ <a id="id-&#x631;&#x627;&#x647;&#x646;&#x645;&#x627;&#x6CC;&#x6A9;&#x627;&#x631;&#x628;&#x631;-&#x631;&#x627;&#x647;&#x646;&#x645;&#x627;&#x6CC;&#x6A9;&#x627;&#x631;&#x628;&#x631;&#x67E;&#x631;&#x633;&#x62A;&#x627;&#x634;&#x627;&#x67E;&#x6F1;.&#x6F7;"></a>
+## راهنمای کاربر پرستاشاپ ۱.۷ <a href="id-rahnmaykarbr-rahnmaykarbrprstashap1.7" id="id-rahnmaykarbr-rahnmaykarbrprstashap1.7"></a>
 
 پرستاشاپ یک پنل مدیریتی جامع و بصری به کاربر ارائه می‌کند و صدها قابلیت در اختیار شما قرار می‌دهد که می‌توان آن‌ها را شخصی‌سازی نمود تا پاسخگوی تمام نیازهای شما باشد.
 
@@ -11,4 +11,3 @@
 شما می‌توانید تمام سوالات خود را به طور مستقیم در فروم ما مطرح کنید: [http://www.prestashop.com/forums/](http://www.prestashop.com/forums/)
 
 بخش‌های این راهنما:
-

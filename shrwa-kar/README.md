@@ -1,10 +1,10 @@
 # شروع کار
 
 {% hint style="info" %}
-The translation of this page might be incomplete. If you want to help, do not hesitate to [visit the contribution page](https://app.gitbook.com/@prestashop/s/howtocontribute/)! 👍 
+The translation of this page might be incomplete. If you want to help, do not hesitate to [visit the contribution page](https://app.gitbook.com/@prestashop/s/howtocontribute/)! :thumbsup:&#x20;
 {% endhint %}
 
-## شروع کار با پرستاشاپ ۱.۷ <a id="id-&#x634;&#x631;&#x648;&#x639;&#x6A9;&#x627;&#x631;-&#x634;&#x631;&#x648;&#x639;&#x6A9;&#x627;&#x631;&#x628;&#x627;&#x67E;&#x631;&#x633;&#x62A;&#x627;&#x634;&#x627;&#x67E;&#x6F1;.&#x6F7;"></a>
+## شروع کار با پرستاشاپ ۱.۷ <a href="id-shrwakar-shrwakarbaprstashap1.7" id="id-shrwakar-shrwakarbaprstashap1.7"></a>
 
 این راهنما به منظور راهنمایی شما جهت دانلود و نصب پرستاشاپ ۱.۷ نوشته شده است.
 
@@ -14,4 +14,3 @@ The translation of this page might be incomplete. If you want to help, do not he
 
 * [نصب پرستاشاپ](nsb-prstashap.md)
 * [هر آنچه برای شروع نیاز دارید](hr-aanchh-bray-shrwa-nyaz-daryd.md)
-

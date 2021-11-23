@@ -14,5 +14,4 @@ description: Managing the Customer Service
 * پیام های سفارش
 * بازگشت های کالا
 
-![](../../../.gitbook/assets/0%20%2835%29.png)
-
+![](<../../../.gitbook/assets/0 (3).png>)

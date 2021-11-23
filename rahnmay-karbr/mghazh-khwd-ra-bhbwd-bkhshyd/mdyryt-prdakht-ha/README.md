@@ -15,5 +15,4 @@ description: Managing Payments
 * [روش های پرداخت](mailto:@)
 * [تنظیمات پرداخت](mailto:%23@)
 
-![](../../../.gitbook/assets/0%20%285%29.png)
-
+![](<../../../.gitbook/assets/0 (41).png>)

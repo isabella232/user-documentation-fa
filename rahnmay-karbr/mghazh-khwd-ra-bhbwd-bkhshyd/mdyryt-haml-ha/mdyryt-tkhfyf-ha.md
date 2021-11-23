@@ -25,5 +25,4 @@ description: Managing Discounts
 * قوانین سبدخرید
 * قوانین قیمت گذاری کاتالوگ
 
-![C:\Users\vafaei\Desktop\&#x639;&#x6A9;&#x633;\discounts000-intro.png](../../../.gitbook/assets/0%20%2833%29.png)
-
+![C:\Users\vafaei\Desktop\عکس\discounts000-intro.png](<../../../.gitbook/assets/0 (16).png>)
