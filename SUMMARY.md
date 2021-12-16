@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About the user documentation](README.md)
+* [Contributing to the documentation](README.md)
 * [شروع کار](shrwa-kar/README.md)
   * [نصب پرستاشاپ](shrwa-kar/nsb-prstashap.md)
   * [هر آنچه برای شروع نیاز دارید](shrwa-kar/hr-aanchh-bray-shrwa-nyaz-daryd.md)
@@ -122,4 +122,3 @@
       * [گزارشها](rahnmay-karbr/pykrbndy-frwshgah/paramtrhay-pyshrfth/untitled-7.md)
       * [وب سرویس](rahnmay-karbr/pykrbndy-frwshgah/paramtrhay-pyshrfth/untitled-8.md)
       * [چند فروشگاهی](rahnmay-karbr/pykrbndy-frwshgah/paramtrhay-pyshrfth/untitled-9.md)
-
